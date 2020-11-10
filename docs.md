@@ -1,4 +1,4 @@
-This documentation describes how to use the **Pavel** robotic toothbrush.
+This documentation describes how to use the **Pavel** robotic automated toothbrush.
 
 Note that the toothbrush is *not safe* to use for the following:
 - Children
