@@ -5,4 +5,4 @@ Note that the toothbrush is *not safe* to use for the following groups of indivi
 - Wildlife
 - Pets
 
-But you can use it!
+But you can use it if you are an adult!
