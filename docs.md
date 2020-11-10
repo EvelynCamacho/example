@@ -4,3 +4,5 @@ Note that this toothbrush is *not safe* to use for:
 - Children
 - Adults
 - Pets
+
+But you can use it!
