@@ -5,4 +5,8 @@ Note that the toothbrush is *not safe* to use for the following groups of indivi
 - Wildlife
 - Pets
 
-But you can use it if you are an adult! Price below.
+But you can use it if you are an adult! Instructions below.
+
+Instructions to use the toothbrush:
+1. Turn on the toothbrush using the green button
+2. Place in your mouth
