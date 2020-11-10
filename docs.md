@@ -1,8 +1,8 @@
 This documentation describes how to use the **Pavel** robotic toothbrush.
 
-Note that this toothbrush is *not safe* to use for:
+Note that the toothbrush is *not safe* to use for the following:
 - Children
-- Adults
+- Plants
 - Pets
 
 But you can use it!
