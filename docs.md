@@ -1,4 +1,4 @@
-This documentation describes how to use the **Kavel** robotic automated toothbrush. Keep reading the document!
+This documentation describes how to use the **Karel** robotic automated toothbrush. Keep reading the document!
 
 Note that the toothbrush is *not safe* to use for the following groups of individuals:
 - Children
