@@ -10,3 +10,4 @@ But you can use it if you are an adult! Instructions below.
 Instructions to use the toothbrush:
 1. Turn on the toothbrush using the green button
 2. Place in your mouth
+3. Done
