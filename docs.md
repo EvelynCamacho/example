@@ -6,3 +6,5 @@ Note that the toothbrush is *not safe* to use for the following groups of indivi
 - Pets
 
 But you can use it if you are an adult! Price below.
+
+The toothbrush can speak seven different languages.
