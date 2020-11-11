@@ -7,4 +7,4 @@ Note that the toothbrush is *not safe* to use for the following groups of indivi
 
 But you can use it if you are an adult! Price below.
 
-The toothbrush can speak seven different languages.
+The toothbrush can speak six different languages.
