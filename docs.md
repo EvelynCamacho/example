@@ -7,4 +7,5 @@ Please note that the toothbrush is *not safe* to use for the following three gro
 
 But you can use it if you are an adult! Instructions in another file.
 
+
 The toothbrush requires to make a bluetooth connection.
